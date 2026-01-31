@@ -55,6 +55,6 @@ My goal is to build websites that are **clean, modern, and easy to use** for eve
 ---
 
 ## Contact Me
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Portfolio:** [Your Portfolio URL]  
-- **Email:** [Your professional email]
+- **LinkedIn:** www.linkedin.com/in/akajiaku-vincent 
+- **Portfolio:**  
+- **Email:** 
